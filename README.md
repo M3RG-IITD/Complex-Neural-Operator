@@ -16,7 +16,7 @@ https://github.com/thuml/Latent-Spectral-Models
 # Complex Neural Operator for Learning the Dynamics of Continuous Physical Systems
 
 <p align="center">
-<img src=".\fig\model.png" height = "200" alt="" align=center />
+<img src=".\fig\newmaincono (1).pdf" height = "200" alt="" align=center />
 <br><br>
 <b>Figure 1.</b> Overview of CoNO.
 </p>
