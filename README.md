@@ -46,16 +46,15 @@ pip install -r requirements.txt
 3. Train and evaluate model. We provide the experiment scripts of all benchmarks under the folder `./scripts/`. You can reproduce the experiment results as the following examples:
 
 ```bash
-bash scripts/elas_lsm.sh # for Elasticity-P
-bash scripts/elsa_interp_lsm.sh # for Elasticity-G
-bash scripts/plas_lsm.sh # for Plasticity
-bash scripts/ns_lsm.sh # for Navier-Stokes
-bash scripts/darcy_lsm.sh # for Darcy
-bash scripts/airfoil_lsm.sh # for Airfoil
-bash scripts/pipe_lsm.sh # for Pipe
+bash scripts/elas_cono.sh # for Elasticity-P
+bash scripts/elsa_interp_cono.sh # for Elasticity-G
+bash scripts/plas_cono.sh # for Plasticity
+bash scripts/ns_cono.sh # for Navier-Stokes
+bash scripts/darcy_cono.sh # for Darcy
+bash scripts/airfoil_cono.sh # for Airfoil
+bash scripts/pipe_cono.sh # for Pipe
 ```
-
- Note: You need to change the argument `--data-path` in the above script files to your dataset path.
+Note: You need to change the argument `--data-path` in the above script files to your dataset path.
 
 
 ## Showcases
