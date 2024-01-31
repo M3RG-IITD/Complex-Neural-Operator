@@ -46,7 +46,7 @@ Note: You must change the argument `--data-path` in the above script files to yo
 ## Showcases
 
 <p align="center">
-<img src=".\fig\bigshowcase (1).png" height = "600" alt="" align=center />
+<img src=".\fig\bigshowcase (1).png" height = "400" alt="" align=center />
 <br><br>
 <b>Figure 2.</b> Showcases.
 </p>
