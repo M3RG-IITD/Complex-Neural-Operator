@@ -47,7 +47,7 @@ Note: You must change the argument `--data-path` in the above script files to yo
 <p align="center">
 <img src=".\fig\mainresults.png" height = "400" alt="" align=center />
 <br><br>
-<b>Figure 2.</b> Showcases.
+<b>Figure 2.</b> Main Results.
 </p>
 
 ## Showcases
