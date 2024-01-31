@@ -40,13 +40,13 @@ bash scripts/darcy_cono.sh # for Darcy
 bash scripts/airfoil_cono.sh # for Airfoil
 bash scripts/pipe_cono.sh # for Pipe
 ```
-Note: You need to change the argument `--data-path` in the above script files to your dataset path.
+Note: You must change the argument `--data-path` in the above script files to your dataset path.
 
 
 ## Showcases
 
 <p align="center">
-<img src=".\fig\showcases.png" height = "200" alt="" align=center />
+<img src=".\fig\bigshowcase (1).png" height = "200" alt="" align=center />
 <br><br>
 <b>Figure 2.</b> Showcases.
 </p>
