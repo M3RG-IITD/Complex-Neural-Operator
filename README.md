@@ -42,6 +42,13 @@ bash scripts/pipe_cono.sh # for Pipe
 ```
 Note: You must change the argument `--data-path` in the above script files to your dataset path.
 
+## Main Results
+
+<p align="center">
+<img src=".\fig\mainresults.png" height = "400" alt="" align=center />
+<br><br>
+<b>Figure 2.</b> Showcases.
+</p>
 
 ## Showcases
 
