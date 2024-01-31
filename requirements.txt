@@ -1,0 +1,6 @@
+torch
+matplotlib
+scipy
+h5py
+torch-frft
+pytorch-complex
