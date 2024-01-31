@@ -1,22 +1,8 @@
-## Acknowledgement
-
-We appreciate the following github repos a lot for their valuable code base or datasets on which we have built our code:
-
-https://github.com/neuraloperator/neuraloperator
-
-https://github.com/neuraloperator/Geo-FNO
-
-https://github.com/tunakasif/torch-frft
-
-https://github.com/soumickmj/pytorch-complex
-
-https://github.com/thuml/Latent-Spectral-Models
-
 
 # Complex Neural Operator for Learning the Dynamics of Continuous Physical Systems
 
 <p align="center">
-<img src=".\fig\newmaincono (1).pdf" height = "200" alt="" align=center />
+<img src=".\fig\maincono (1).png" height = "200" alt="" align=center />
 <br><br>
 <b>Figure 1.</b> Overview of CoNO.
 </p>
@@ -65,3 +51,16 @@ Note: You need to change the argument `--data-path` in the above script files to
 <b>Figure 2.</b> Showcases.
 </p>
 
+## Acknowledgement
+
+We appreciate the following GitHub repos a lot for their valuable code base or datasets on which we have built our code:
+
+https://github.com/neuraloperator/neuraloperator
+
+https://github.com/neuraloperator/Geo-FNO
+
+https://github.com/tunakasif/torch-frft
+
+https://github.com/soumickmj/pytorch-complex
+
+https://github.com/thuml/Latent-Spectral-Models
