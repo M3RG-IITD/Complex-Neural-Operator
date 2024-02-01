@@ -62,12 +62,12 @@ Note: You must change the argument `--data-path` in the above script files to yo
 
 We appreciate the following GitHub repos a lot for their valuable code base or datasets on which we have built our code:
 
-https://github.com/neuraloperator/neuraloperator
+1) https://github.com/neuraloperator/neuraloperator
 
-https://github.com/neuraloperator/Geo-FNO
+2) https://github.com/neuraloperator/Geo-FNO
 
-https://github.com/tunakasif/torch-frft
+3) https://github.com/tunakasif/torch-frft
 
-https://github.com/soumickmj/pytorch-complex
+4) https://github.com/soumickmj/pytorch-complex
 
-https://github.com/thuml/Latent-Spectral-Models
+5) https://github.com/thuml/Latent-Spectral-Models
