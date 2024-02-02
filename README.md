@@ -8,18 +8,18 @@
 </p>
 
 
-## Get Started
+## Codebase for Reproducibility
 
-1. Install Python 3.8. For convenience, execute the following command.
+1. Install Python 3.8. For convenience, please go ahead and execute the following command.
 
 ```bash
 pip install -r requirements.txt
 ```
 
-2. Prepare Data. You can obtain experimental datasets from the following links.
+2. Prepare Data. You can obtain experimental datasets from the following links (Download).
 
 
-| Dataset       | Task                                    | Geometry        | Link                                                         |
+| Datasets       | Tasks                                    | Geometry        | Download Link                                                         |
 | ------------- | --------------------------------------- | --------------- | ------------------------------------------------------------ |
 | Elasticity-P  | Estimate material inner stress          | Point Cloud     | [[Google Cloud]](https://drive.google.com/drive/folders/1YBuaoTdOSr_qzaow-G-iwvbUI7fiUzu8) |
 | Elasticity-G  | Estimate material inner stress          | Regular Grid    | [[Google Cloud]](https://drive.google.com/drive/folders/1YBuaoTdOSr_qzaow-G-iwvbUI7fiUzu8) |
@@ -29,7 +29,7 @@ pip install -r requirements.txt
 | AirFoil       | Estimate airﬂow velocity around airfoil | Structured Mesh | [[Google Cloud]](https://drive.google.com/drive/folders/1YBuaoTdOSr_qzaow-G-iwvbUI7fiUzu8) |
 | Pipe          | Estimate fluid velocity in a pipe       | Structured Mesh | [[Google Cloud]](https://drive.google.com/drive/folders/1YBuaoTdOSr_qzaow-G-iwvbUI7fiUzu8) |
 
-3. Train and evaluate model. We provide the experiment scripts of all benchmarks under the folder `./scripts/`. You can reproduce the experiment results as the following examples:
+3. Train and evaluate model. We provide the experiment scripts of all benchmarks under the folder `./scripts/.` You can reproduce the experiment results as the following examples:
 
 ```bash
 bash scripts/elas_cono.sh # for Elasticity-P
