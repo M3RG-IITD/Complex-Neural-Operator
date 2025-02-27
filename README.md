@@ -58,6 +58,20 @@ Note: You must change the argument `--data-path` in the above script files to yo
 <b>Figure 3.</b> Showcases.
 </p>
 
+## Citation
+
+If you found the GitHub codebase useful, please cit following work:
+
+@misc{tiwari2024conocomplexneuraloperator,
+      title={CoNO: Complex Neural Operator for Continous Dynamical Physical Systems}, 
+      author={Karn Tiwari and N M Anoop Krishnan and A P Prathosh},
+      year={2024},
+      eprint={2406.02597},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2406.02597}, 
+}
+
 ## Acknowledgement
 
 We appreciate the following GitHub repos a lot for their valuable code base or datasets on which we have built our code:
@@ -68,6 +82,6 @@ We appreciate the following GitHub repos a lot for their valuable code base or d
 
 3) https://github.com/tunakasif/torch-frft
 
-4) https://github.com/soumickmj/pytorch-complex
+5) https://github.com/soumickmj/pytorch-complex
 
-5) https://github.com/thuml/Latent-Spectral-Models
+6) https://github.com/thuml/Latent-Spectral-Models
