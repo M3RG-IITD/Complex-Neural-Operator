@@ -62,15 +62,21 @@ Note: You must change the argument `--data-path` in the above script files to yo
 
 If you found the GitHub codebase useful, please cit following work:
 
-@misc{tiwari2024conocomplexneuraloperator,
-      title={CoNO: Complex Neural Operator for Continous Dynamical Physical Systems}, 
-      author={Karn Tiwari and N M Anoop Krishnan and A P Prathosh},
-      year={2024},
-      eprint={2406.02597},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2406.02597}, 
+'''
+@article{tiwari2024cono,
+  title={CoNO: Complex Neural Operator for Continous Dynamical Physical Systems},
+  author={Tiwari, Karn and Krishnan, NM and Prathosh, AP},
+  journal={arXiv preprint arXiv:2406.02597},
+  year={2024}
 }
+
+@article{bedi2025neural,
+  title={A Neural Operator for Forecasting Carbon Monoxide Evolution in Cities},
+  author={Bedi, Sanchit and Tiwari, Karn and Kota, Sri Harsha and Krishnan, NM and others},
+  journal={arXiv preprint arXiv:2501.06007},
+  year={2025}
+}
+'''
 
 ## Acknowledgement
 
