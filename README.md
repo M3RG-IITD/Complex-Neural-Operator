@@ -62,7 +62,7 @@ Note: You must change the argument `--data-path` in the above script files to yo
 
 If you found the GitHub codebase useful, please cit following work:
 
-'''
+```
 @article{tiwari2024cono,
   title={CoNO: Complex Neural Operator for Continous Dynamical Physical Systems},
   author={Tiwari, Karn and Krishnan, NM and Prathosh, AP},
@@ -76,7 +76,7 @@ If you found the GitHub codebase useful, please cit following work:
   journal={arXiv preprint arXiv:2501.06007},
   year={2025}
 }
-'''
+```
 
 ## Acknowledgement
 
