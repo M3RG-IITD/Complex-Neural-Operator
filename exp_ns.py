@@ -112,7 +112,7 @@ for ep in range(epochs):
             else:
                 pred = torch.cat((pred, im), -1)
 
-            xx = torch.cat((xx[..., step:], im), dim=-1)
+            xx = torch.cat((xx[..., step:], y), dim=-1)
 
         train_l2_step += loss.item()
         l2_full = myloss(pred.reshape(batch_size, -1), yy.reshape(batch_size, -1))
